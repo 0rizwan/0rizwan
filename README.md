@@ -2,7 +2,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a passionate Junior Developer with **1.5 years of experience** working with the **MERN stack** and **React Native**. I’m always excited to learn new technologies and improve my skills.
+I'm a passionate Junior Developer with more than **2 years of experience** working with the **MERN stack** and **React Native**. I’m always excited to learn new technologies and improve my skills.
 
 Currently, I’m focused on building scalable web applications and mobile apps, and I love working on projects that challenge my problem-solving abilities. I enjoy working both on the **front-end** and **back-end** and am continuously learning more about full-stack development.
 
