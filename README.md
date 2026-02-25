@@ -37,8 +37,6 @@ At the moment, I’m sharpening my skills in building responsive, performant web
 ## 📫 How to Reach Me
 
 - **Email:** fycsrizwan@gmail.com
-- **LinkedIn:** [Rizwan](https://www.linkedin.com/in/rizwan)
-- **Twitter:** [@0rizwan](https://twitter.com/0rizwan)
 
 ## 💬 Let's Connect
 
